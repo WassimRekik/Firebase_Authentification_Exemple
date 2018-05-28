@@ -4,7 +4,7 @@ In this application you will be able to use Google, Facebook and EmailPassword l
 
 # Configuration
 
-1 - First you need to create a Firebase project /n
+1 - First you need to create a Firebase project.
 2 - Add Android Platform to your project
 3 - Put "tn.insat.wassimrekik.firebase_authentification_exemple" as application package
 4 - Generate certificate hash by running this command on your terminal and use "android" as password (this is only fo debug)
